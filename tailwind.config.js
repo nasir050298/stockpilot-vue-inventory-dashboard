@@ -1,0 +1,1 @@
+export default {darkMode:'class',content:['./index.html','./src/**/*.{vue,ts}'],theme:{extend:{colors:{ops:{ink:'#0A1020',navy:'#111827',steel:'#1F2937',cyan:'#22D3EE',indigo:'#6366F1',amber:'#F59E0B',green:'#22C55E',red:'#FB7185',cloud:'#F3F6FB'}},boxShadow:{ops:'0 24px 70px rgba(15,23,42,.16)',glow:'0 0 50px rgba(34,211,238,.20)'}}},plugins:[]}
