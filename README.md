@@ -62,21 +62,67 @@ npm run preview
 
 Create a `screenshots/` folder and add:
 
-```text
-screenshots/homepage.png
-screenshots/dashboard.png
-screenshots/products.png
-screenshots/product-form.png
-screenshots/stock-management.png
-screenshots/sales.png
-screenshots/create-sale.png
-screenshots/purchases.png
-screenshots/invoices.png
-screenshots/invoice-preview.png
-screenshots/reports.png
-screenshots/low-stock.png
-screenshots/mobile-view.png
-```
+## Screenshots
+
+### Homepage
+
+![Homepage](screenshots/homepage-light.png)
+
+### Homepage
+
+![Homepage](screenshots/homepage-dark.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Products
+
+![Products](screenshots/products.png)
+
+### Product Form
+
+![Product Form](screenshots/product-form.png)
+
+### Stock Management
+
+![Stock Management](screenshots/stock-management.png)
+
+### Sales
+
+![Sales](screenshots/sales.png)
+
+### Create Sale
+
+![Create Sale](screenshots/create-sale.png)
+
+### Purchases
+
+![Purchases](screenshots/purchases.png)
+
+### Invoices
+
+![Invoices](screenshots/invoices.png)
+
+### Invoice Preview
+
+![Invoice Preview](screenshots/invoice-preview.png)
+
+### Reports
+
+![Reports](screenshots/reports.png)
+
+### Low Stock
+
+![Low Stock](screenshots/low-stock.png)
+
+### Mobile View
+
+![Mobile View](screenshots/mobile-view.png)
+
+### Tablet View
+
+![Tablet View](screenshots/tab-view.png)
 
 ## Future Improvements
 
